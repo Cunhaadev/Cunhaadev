@@ -1,4 +1,4 @@
-👋 Olá, meu nome é Cristian
+👋 Eaí, meu nome é Cristian!
 
 Estudante de Engenharia de Software | Desenvolvedor em formação
 
