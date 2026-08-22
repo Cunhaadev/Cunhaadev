@@ -4,14 +4,14 @@ Estudante de Engenharia de Software | Desenvolvedor em formação
 
 🧑‍💻 Sobre mim
 
-Sou estudante de Engenharia de Software e desenvolvedor em formação, 
-com foco no desenvolvimento web.
+Desde pequeno, sempre tive uma forte conexão com o mundo da tecnologia. A curiosidade de entender como as coisas funcionavam me levou a explorar cada vez mais esse universo e, com o tempo, descobrir a programação.
 
-Já concluí cursos de Front-end com JavaScript e React e venho 
-colocando esses conhecimentos em prática através de projetos próprios.
+Também desenvolvi meu inglês de forma autodidata desde cedo, principalmente através de jogos, vídeos e conteúdos que consumia na internet. Hoje, possuo nível avançado no idioma, algo que considero um dos resultados mais importantes da minha trajetória como autodidata.
 
-Atualmente, estou expandindo minha base de desenvolvimento e buscando 
-transformar cada projeto em uma oportunidade de aprendizado e evolução.
+Sou estudante de Engenharia de Software e desenvolvedor em formação, com foco no desenvolvimento web. Já concluí cursos de Front-end com JavaScript e React e venho colocando esses conhecimentos em prática por meio de projetos próprios.
+
+Atualmente, continuo expandindo minha base de conhecimentos e explorando novas tecnologias. Para mim, cada projeto representa uma oportunidade de aprender, experimentar e evoluir como desenvolvedor.
+
 
 📚 Atualmente estudando
 
