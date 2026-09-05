@@ -2,7 +2,7 @@
 
 **`Future Full-Stack Developer`**
 
-Eai! Me chamo Cristian , e sou estudante de **Engenharia de Software**, apaixonado por tecnologia e desenvolvimento de software.
+Eai! Me chamo Cristian, e sou um estudante de **Engenharia de Software**, apaixonado por tecnologia e desenvolvimento de software.
 
 Atualmente, estou construindo minha base no desenvolvimento **Front-End**, trabalhando com tecnologias como JavaScript e React, enquanto avanço meus estudos em **Back-End, Python, APIs e bancos de dados**.
 
