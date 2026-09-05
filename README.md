@@ -1,24 +1,26 @@
-👋 Eaí, meu nome é Cristian!
+# 👨🏻‍💻 Cristian Cunha
 
-Estudante de Engenharia de Software | Desenvolvedor em formação
+**`Future Full-Stack Developer`**
 
-🧑‍💻 Sobre mim
+Eai! Me chamo Cristian , e sou estudante de **Engenharia de Software**, apaixonado por tecnologia e desenvolvimento de software.
 
-Sou estudante de Engenharia de Software e desenvolvedor em formação, com foco no desenvolvimento web. Já concluí cursos de Front-end com JavaScript e React e venho colocando esses conhecimentos em prática por meio de projetos próprios.
+Atualmente, estou construindo minha base no desenvolvimento **Front-End**, trabalhando com tecnologias como JavaScript e React, enquanto avanço meus estudos em **Back-End, Python, APIs e bancos de dados**.
 
-Além da tecnologia, sou um grande apreciador da moda urbana, especialmente do streetwear. Acredito que a criatividade faz parte de tudo o que faço e gosto de explorá-la não apenas na programação, mas também na forma como me visto, nas ideias que desenvolvo e nas diferentes áreas da minha vida.
+Meu objetivo é me tornar um **desenvolvedor Full-Stack**, sendo capaz de desenvolver aplicações completas, desde a interface até a lógica do servidor e o gerenciamento de dados.
 
-Atualmente, continuo expandindo minha base de conhecimentos e explorando novas tecnologias. Para mim, cada projeto representa uma oportunidade de aprender, experimentar e evoluir como desenvolvedor.
+Este GitHub é onde registro minha jornada, compartilho meus projetos e coloco meus conhecimentos em prática, buscando evoluir constantemente como desenvolvedor.
 
-📚 Atualmente estudando
+### 🛠️ Tecnologias e Ferramentas
 
-* Desenvolvimento Full Stack com Python
-* Back-end e desenvolvimento de APIs
-* Banco de dados
-* Boas práticas de desenvolvimento de software
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="45" alt="Django"/>
+</p>
 
-🎯 Objetivo
 
-Meu objetivo é evoluir continuamente como desenvolvedor, adquirindo experiência tanto no desenvolvimento Front-end quanto Back-end.
-
-No longo prazo, quero me tornar um Software Engineer capaz de construir aplicações completas, participar de projetos reais e continuar aprendendo novas tecnologias ao longo da carreira.
