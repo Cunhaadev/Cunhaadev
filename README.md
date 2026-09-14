@@ -10,6 +10,14 @@ Meu objetivo é me tornar um **desenvolvedor Full-Stack**, sendo capaz de desenv
 
 Este GitHub é onde registro minha jornada, compartilho meus projetos e coloco meus conhecimentos em prática, buscando evoluir constantemente como desenvolvedor.
 
+### 🌐 Meu Portfólio
+
+Confira meus projetos, minha trajetória e meus trabalhos:
+
+**[🚀 Acessar meu portfólio](https://portfolio-cristiancunha.web.app/)**
+
+---
+
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
@@ -22,5 +30,6 @@ Este GitHub é onde registro minha jornada, compartilho meus projetos e coloco m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="45" alt="Django"/>
 </p>
+
 
 
