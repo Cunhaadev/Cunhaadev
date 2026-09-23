@@ -21,6 +21,14 @@ Confira meus projetos, minha trajetória e meus trabalhos:
   <img src="https://komarev.com/ghpvc/?username=Cunhaadev&color=blue&style=flat-square" alt="Profile Views">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cunhaadev&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Cunhaadev&theme=tokyonight&hide_border=true" />
+</p>
+
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
