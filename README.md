@@ -17,7 +17,9 @@ Confira meus projetos, minha trajetória e meus trabalhos:
 **[🚀 Acessar meu portfólio](https://portfolio-cristiancunha.web.app/)**
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=Cunhaadev)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Cunhaadev&color=blue&style=flat-square" alt="Profile Views">
+</p>
 
 ### 🛠️ Tecnologias e Ferramentas
 
