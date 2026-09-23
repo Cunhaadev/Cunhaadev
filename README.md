@@ -22,10 +22,6 @@ Confira meus projetos, minha trajetória e meus trabalhos:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cunhaadev&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Cunhaadev&theme=tokyonight&hide_border=true" />
 </p>
 
